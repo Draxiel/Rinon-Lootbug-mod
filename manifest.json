@@ -1,0 +1,9 @@
+{
+    "name": "Rinhello",
+    "version_number": "1.0.0",
+	"website_url": "https://github.com/Draxiel/Rinon-Lootbug-mod",
+    "description": "Changes the chitter SFX of the Hoarding Bug to Youtuber/Twitch Streamer Rinon/RinBanana saying Hellooo",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
