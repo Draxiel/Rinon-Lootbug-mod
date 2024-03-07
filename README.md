@@ -7,5 +7,4 @@ change the Lethal Company Hoarding Bug chitterSFX to Rinons famous "Hellooooo"
 
 ## Credit
 - MrMiinxx / GameMasterDevs videos on basic mod creation https://www.youtube.com/watch?v=4Q7Zp5K2ywI
-- 
 - RinonBanana for the funny Hellooo https://www.twitch.tv/rinbanana
